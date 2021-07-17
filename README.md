@@ -1,13 +1,13 @@
-# Authentication
-Complete Authentication system using Nodejs, ExpressJs, Handlebars, MongoDB
+## Authentication
+Complete Authentication system using bcrypt and jwt modules
 
 ## 🚀 Technologies
 
 Technologies that I used to develop this Zoom's clone:
-
-- [NodeJS](https://nodejs.org/en/)
-- [Socket.IO](https://socket.io/)
-- [PeerJS](https://peerjs.com/)
+* [NodeJS](https://nodejs.org)
+* [ExpressJS](https://expressjs.com)
+* [Handlebars](https://handlebarsjs.com/)
+* [MongoDB](https://mongodb.com)
 
 ## 💻 Getting started
 
